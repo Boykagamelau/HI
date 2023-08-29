@@ -1,0 +1,5 @@
+@echo off
+color 1f
+title= ¿ç·₫
+C:\XxSG\Java\jdk1.8.0_181\bin\java -Dfile.encoding=utf-8 -cp C:\XxSG\center\lib\*;C:\XxSG\XxSG\center\target\classes com.linlongyx.startup.CrossServer
+pause
